@@ -1,0 +1,1 @@
+x='pv-skill-entity__featured-endorse-button-shared artdeco-button artdeco-button--circle artdeco-button--1 artdeco-button--secondary ember-view';a=document.getElementsByClassName(x);for(var i=0; i<a.length; i++){ if (a[i].getAttribute('aria-pressed')=="false"){a[i].click();}}
