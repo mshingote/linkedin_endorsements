@@ -1,7 +1,7 @@
 # linkedin_endorsements
 Automation tool to give endorsements to your linkedin connections
 
-# How to test?
+# How to use?
 1. Login to your Linkedin account.
 2. Go to below URL
     https://www.linkedin.com/in/mshingote/
