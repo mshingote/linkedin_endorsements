@@ -8,4 +8,4 @@ Automation tool to give endorsements to your linkedin connections
 3. Expand the profile section like this
     ![see this image](https://github.com/mshingote/linkedin_endorsements/blob/master/image1.png)
 4. Press F12
-5. copy code from main.js to browser console and press enter
+5. copy code from Endorse.js to browser console and press enter
